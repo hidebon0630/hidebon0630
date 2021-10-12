@@ -16,6 +16,9 @@
   <//qiita.com/hidebon0630">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hidebon0630/contributions.svg" />
   </a>
+</p>
+  
+<p align="left"> 
   <a href="https://zenn.dev/hidebon0630">
     <img height="20" src="https://zenn.badge.nikaera.com/s/hidebon0630/likes" />
   </a>
