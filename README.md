@@ -29,6 +29,8 @@
     <img height="20" src="https://zenn.badge.nikaera.com/s/hidebon0630/articles" />
   </a>
 </p>
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=hidebon0630&theme=onedark)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hidebon0630)
   
