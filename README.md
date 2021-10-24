@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <a href="https://github.com/hidebon0630/hidebon0630/">
-    <img src="https://komarev.com/ghpvc/?username=hidebon0630" alt="hidebon0630" />
-  </a>
   <a href="http://twitter.com/papicosan_6">
-    <img height="20" src="https://img.shields.io/twitter/follow/papicosan_6?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/hidebon_0630?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/hidebon0630">
     <img height="20" src="https://img.shields.io/github/followers/hidebon0630?label=follow&logo=github&style=flat" />
