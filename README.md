@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <a href="http://twitter.com/papicosan_6">
+  <a href="http://twitter.com/hidebon_0630">
     <img height="20" src="https://img.shields.io/twitter/follow/hidebon_0630?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/hidebon0630">
@@ -17,13 +17,13 @@
   
 <p align="left"> 
   <a href="https://zenn.dev/hidebon0630">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/hidebon0630/likes" />
+    <img src="https://zenn.badge.nikaera.com/s/hidebon0630/likes?style=plastic" alt="hidebon0630 likes" />
   </a>
-  <a href="https://zenn.dev/hidebon0630">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/hidebon0630/followers" />
+  <a href="https://zenn.dev/hidebon0630/followers">
+    <img src="https://zenn.badge.nikaera.com/s/hidebon0630/followers?style=plastic" alt="hidebon0630 followers" />
   </a>
-  <a href="https://zenn.dev/hidebon0630">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/hidebon0630/articles" />
+  <a href="https://zenn.dev/hidebon0630/articles">
+    <img src="https://zenn.badge.nikaera.com/s/hidebon0630/articles?style=plastic" alt="hidebon0630 articles" />
   </a>
 </p>
   
