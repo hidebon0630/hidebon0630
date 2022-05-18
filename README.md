@@ -28,10 +28,6 @@
 </p>
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=hidebon0630&theme=onedark)
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hidebon0630)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidebon0630&layout=compact)
   
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hidebon0630)
 
